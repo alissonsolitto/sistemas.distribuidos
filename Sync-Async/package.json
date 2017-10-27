@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-sync-async",
+  "version": "1.0.0",
+  "description": "Trabalho API sync and async",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "4.2.2"
+  },
+  "license": "MIT"
+}

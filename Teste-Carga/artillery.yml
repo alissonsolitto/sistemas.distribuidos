@@ -1,0 +1,13 @@
+# Documentação https://artillery.io/docs/getting-started/
+# artillery run artillery.yml
+config:
+  target: 'http://www.univem.edu.br'
+  phases:
+    - duration: 10 # Duração em segundos
+      arrivalRate: 20 # Novos usuários a cada segundo
+scenarios:
+  -
+    name: 'Acessa curso BCC'
+    flow:
+    - get:
+        url: "/bcc"
