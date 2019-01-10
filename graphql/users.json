@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"name": "Alisson Solitto",
+		"age": 22,
+		"knowledge": [
+			{
+				"language": "Javascript",
+				"frameworks": [
+					"express.js",
+					"hapi.js",
+					"AngularJS"
+				]
+			},
+			{
+				"language": "C#",
+				"frameworks": [
+					".NET"
+				]
+			},
+			{
+				"language": "Java",
+				"frameworks": []
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Maira Stoco",
+		"age": 22,
+		"knowledge": [
+			{
+				"language": "Javascript",
+				"frameworks": [
+					"Angular 4",
+					"Ionic"
+				]
+			},
+			{
+				"language": "Delphi",
+				"frameworks": []
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Maria Doida",
+		"age": 35,
+		"knowledge": [
+			{
+				"language": "Javascript",
+				"frameworks": [
+					"Ionic"
+				]
+			},
+			{
+				"language": "Cobol",
+				"frameworks": []
+			},
+			{
+				"language": "Delphi"
+			}
+		]
+	}
+]
